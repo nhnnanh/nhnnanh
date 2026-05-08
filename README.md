@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World,%20I'm%20[Ngoc Anh]%20!%20%E2%9C%A8&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20digital%20garden%20%F0%9F%8C%B8&descAlignY=55&descAlign=50" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World,%20I'm%20[Your%20Name]%20!%20%E2%9C%A8&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20digital%20garden%20%F0%9F%8C%B8&descAlignY=55&descAlign=50" alt="Header banner" />
 </div>
 
-<h1 align="center"> 🌸 Hello there, I'm Nguyễn Hoàng Ngọc Ánh 🌸 </h1>
+<h1 align="center"> 🌸 Hello there, I'm [Your Name]! 🌸 </h1>
 
 <p align="center">
   <em>A passionate software engineering student who finds beauty in logic and elegance in algorithms. To me, coding is more than just typing syntax—it's the art of crafting digital experiences that solve real-world problems with a touch of grace. 🎀</em>
@@ -23,7 +23,7 @@
 - 📚 **Academic Journey:** I've been deeply exploring the core of computer science, including *Data Structures & Algorithms, Computer Networks, and Operating Systems*.
 - 🌱 **Current Focus:** Turning coffee into clean, scalable code and exploring the endless possibilities of software architecture.
 - 💡 **My Philosophy:** *"Clean code is like a well-kept room—organized, fragrant, and a joy to navigate."*
-- 📫 **Reach out to me:** **ngocanhk20.fptdn@gmail.com**
+- 📫 **Reach out to me:** **[Your Email Address]**
 
 ---
 
