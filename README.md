@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=nhnnanhE&label=Profile%20Views&color=ffb6c1&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🎓 **Education:** Currently in my **3rd year** majoring in **Software Engineering** at **FPT University**. 
 - ✨ **Achievement:** Proud recipient of a **50% Academic Scholarship**, fueling my drive to constantly push boundaries and learn more.
-- 📚 **Academic Journey:** I've been deeply exploring the core of computer science, including *Data Structures & Algorithms, Computer Networks, and Operating Systems*.
+- 📚 **Academic Journey:** I've been deeply exploring the core of computer science, including *Data Structures & Algorithms, Computer Networks, and Operating Systems, Java language,...*.
 - 🌱 **Current Focus:** Turning coffee into clean, scalable code and exploring the endless possibilities of software architecture.
 - 💡 **My Philosophy:** *"Clean code is like a well-kept room—organized, fragrant, and a joy to navigate."*
 - 📫 **Reach out to me:** [ngocanhk20.fptdn@gmail.com](mailto:ngocanhk20.fptdn@gmail.com)
@@ -48,16 +48,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-*A little peek into my daily coding habits, wrapped in a sweet pastel theme!*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=ffe4e1&title_color=ff1493&icon_color=ff69b4&text_color=333333&theme=buefy" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=ffe4e1&title_color=ff1493&icon_color=ff69b4&text_color=333333&theme=buefy" alt="Top Languages" width="48%" />
-</div>
-
----
 
 ### 💌 Let's Connect!
 
