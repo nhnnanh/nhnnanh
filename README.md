@@ -21,8 +21,6 @@
 - 🎓 **Education:** Currently in my **3rd year** majoring in **Software Engineering** at **FPT University**. 
 - ✨ **Achievement:** Proud recipient of a **50% Academic Scholarship**, fueling my drive to constantly push boundaries and learn more.
 - 📚 **Academic Journey:** I've been deeply exploring the core of computer science, including *Data Structures & Algorithms, Computer Networks, and Operating Systems, Java language,...*.
-- 🌱 **Current Focus:** Turning coffee into clean, scalable code and exploring the endless possibilities of software architecture.
-- 💡 **My Philosophy:** *"Clean code is like a well-kept room—organized, fragrant, and a joy to navigate."*
 - 📫 **Reach out to me:** [ngocanhk20.fptdn@gmail.com](mailto:ngocanhk20.fptdn@gmail.com)
 
 ---
